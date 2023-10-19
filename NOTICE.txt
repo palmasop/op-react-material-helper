@@ -1,0 +1,4 @@
+
+This software includes components from Material-UI:
+Copyright (c) [Year MUI was copyrighted] [Name of the copyright holder for MUI]
+Licensed under the MIT License.
